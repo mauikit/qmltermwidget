@@ -1,4 +1,4 @@
-Source: qmltermwidget
+Source: qml-module-qmltermwidget
 Maintainer: Alexis pez Zubieta <azubieta90@gmail.com>
 Section: misc
 Priority: optional
