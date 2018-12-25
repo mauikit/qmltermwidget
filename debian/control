@@ -5,7 +5,7 @@ Priority: optional
 Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 9)
 
-Package: qmltermwidget
+Package: qml-module-qmltermwidget
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: QML port of qtermwidget
